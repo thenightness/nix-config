@@ -1,0 +1,7 @@
+{ ... }:
+
+{
+  programs.openlogi = {
+    enable = true;
+  };
+}
