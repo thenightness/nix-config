@@ -62,9 +62,9 @@ in
         }) generalKeys
       )
       // {
-        ha_token = {
+        /*ha_token = {
           sopsFile = "${sopsFolder}/shared.yaml";
-        };
+        }; */
       };
   };
 }

@@ -43,7 +43,7 @@
             avatar = ../../../assets/images/profidev.jpeg;
           };
           theme.sync_toolkits = true;
-          plugin_secret_files.homeassistant.token = config.sops.secrets.ha_token.path;
+          # plugin_secret_files.homeassistant.token = config.sops.secrets.ha_token.path;
         };
   };
 

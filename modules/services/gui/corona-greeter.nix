@@ -15,7 +15,6 @@
   security.pam.services.greetd = {
     enable = true;
     fprintAuth = true;
-    u2fAuth = true;
   };
 
   services.corona-greeter = {
